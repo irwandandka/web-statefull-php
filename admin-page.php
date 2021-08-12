@@ -32,7 +32,7 @@ if (!isset($_SESSION['login'])) {
                 <div class="col-md-3">
                     <div class="card">
                         <div class="card-body bg-primary text-white text-center">
-                            <h4>Users : 3</h4>
+                            <h4>Users : 5</h4>
                         </div>
                     </div>
                 </div>
